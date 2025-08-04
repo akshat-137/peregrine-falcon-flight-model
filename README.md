@@ -7,6 +7,13 @@ This repository contains a MATLAB Simulink model that simulates the stoop dive o
 - Continuous velocity and height tracking
 - MATLAB Online + Simulink implementation
 
+## 🧩 Simulink Block Diagram
+
+This is the core model architecture, created in MATLAB Simulink. It simulates the peregrine falcon's dive with dynamic drag switching:
+
+![ Model ](peregrine_falcon_model_diagram.png)
+
+
 ## 📊 Output
 ![Scope Output](scope_output.png)
 
